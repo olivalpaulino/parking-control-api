@@ -1,0 +1,11 @@
+{
+    "parkingSpotNumber": "220A",
+    "licensePlateCar": "ABC8541",
+    "brandCar": "Honda",
+    "modelCar": "hrv",
+    "colorCar": "branco",
+    "responsibleName": "Olival",
+    "apartment": "200",
+    "block": "A"
+
+}
